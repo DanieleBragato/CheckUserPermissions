@@ -68,7 +68,7 @@ public class Main {
 		log.info("Inizio elaborazione");
 		log.info("Elenco dei parametri di elaborazione:");
 		log.info("   Parametro nr 1 - Nome utente Oracle = " + nomeUtenteOracle);
-		log.info("   Parametro nr 2 - Password utente Oracle = " + passwordUtenteOracle);
+		log.info("   Parametro nr 2 - la Password utente Oracle è presente ");
 		log.info("   Parametro nr 3 - Codice azienda = " + codiceAzienda);
 		log.info("   Parametro nr 4 - UT_CODE = " + UtCode);
 		log.info("   Parametro nr 5 - log file = " + logFile);
